@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = melvin.ocs@gmail.com
+	name = Melvin Lee
